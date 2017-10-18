@@ -9,7 +9,7 @@
     outline-width: 5px;
     text-align: center;
     text-shadow: 7px 7px 0px black; /*new CSS style 2*/
-    text-decoration: underline overline; /*new CSS style 3*/
+    text-decoration: underline; /*new CSS style 3*/
     letter-spacing: 10px; /*new CSS style 4*/
     text-transform: uppercase; /*new CSS style 5*/
 }
