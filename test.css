@@ -4,13 +4,20 @@
     margin-right: auto;
     margin-bottom: 10px;
     border:solid 8px black;
+    outline-style: solid; /*new CSS style 1*/
+    outline-color:#FFBC00;
+    outline-width: 5px;
     text-align: center;
+    text-shadow: 7px 7px 0px black; /*new CSS style 2*/
+    text-decoration: underline overline; /*new CSS style 3*/
+    letter-spacing: 10px; /*new CSS style 4*/
+    text-transform: uppercase; /*new CSS style 5*/
 }
 #Header h1 {
     font-size: 60px;
     font-family: "Passion One";
     color: #FFBC00;
-    font-weight: bold
+    font-weight: bold;
 }
 #LeftNav {
     width: 20%;
